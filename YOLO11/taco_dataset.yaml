@@ -1,0 +1,19 @@
+train: C:\Users\gsanc\OneDrive\Documents\Python\RetosReciclaje\YOLO11\taco_yolo_1\images\train
+val: C:\Users\gsanc\OneDrive\Documents\Python\RetosReciclaje\YOLO11\taco_yolo_1\images\val
+
+nc: 60  # Number of classes in TACO
+names: [
+    'Aluminum foil', 'Battery', 'Blister pack', 'Bottle', 'Bottle cap',
+    'Broken glass', 'Can', 'Carton', 'Cigarette', 'Cup', 'Food waste',
+    'Food wrapper', 'Glass jar', 'Lid', 'Other plastic', 'Paper',
+    'Paper bag', 'Plastic bag & wrapper', 'Plastic container',
+    'Plastic gloves', 'Plastic utensils', 'Pop tab', 'Rope & strings',
+    'Scrap metal', 'Shoe', 'Squeezable tube', 'Straw', 'Styrofoam piece',
+    'Tire', 'Tobacco products', 'Toothbrush', 'Wrapper', 'Clothing',
+    'Diaper', 'Mask', 'Paper cup', 'Plastic straw', 'Pouch',
+    'Shopping cart', 'Storage container', 'Beer can', 'Bottle (alcohol)',
+    'Cans (food)', 'Cartons', 'Cutlery (single-use)', 'Drink box', 'Gum',
+    'Packaging', 'Paperboard', 'Snack bag', 'Styrofoam container',
+    'Thermocol', 'Tinfoil', 'Tissues', 'Towel', 'Tray', 'Tube (plastic)',
+    'Umbrella', 'Wooden piece', 'Worn plastic'
+]
